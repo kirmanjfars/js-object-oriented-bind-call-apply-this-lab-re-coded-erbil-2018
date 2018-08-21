@@ -1,0 +1,3 @@
+function justInvoke(){
+  return this;
+}
